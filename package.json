@@ -1,12 +1,15 @@
 {
   "name": "queue",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Queue for Docker Demo",
   "main": "index.js",
   "author": "tony@subfuzion.com",
   "license": "MIT",
   "scripts": {
     "test": "mocha --ui tdd"
+  },
+  "engines" : {
+    "node" : ">=v8.0.0"
   },
   "devDependencies": {
     "config": "^1.27.0",
