@@ -1,7 +1,7 @@
 const assert = require('assert')
-const Consumer = require('../Consumer')
-const Producer = require('../Producer')
-const QueueBase = require('../QueueBase')
+const Consumer = require('../lib/Consumer')
+const Producer = require('../lib/Producer')
+const QueueBase = require('../lib/QueueBase')
 const Redis = require('ioredis')
 
 const topic = 'queue'
