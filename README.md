@@ -1,3 +1,5 @@
+[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)](https://www.npmjs.com/package/@subfuzion/queue)
+
 # @subfuzion/queue
 
 This is a simple queue package intended for a demo application used for
