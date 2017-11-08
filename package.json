@@ -1,10 +1,14 @@
 {
-  "name": "queue",
-  "version": "1.0.0",
-  "description": "Queue for Docker Demo",
+  "name": "@subfuzion/queue",
+  "version": "1.0.1",
+  "description": "Simple queue based on Redis for Docker Demo",
   "main": "index.js",
   "author": "tony@subfuzion.com",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/subfuzion/node-redis-queue.git"
+  },
   "scripts": {
     "test": "mocha --ui tdd"
   },
