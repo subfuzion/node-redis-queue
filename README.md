@@ -1,4 +1,4 @@
-[![npm (scoped)](https://img.shields.io/npm/v/@cycle/core.svg)](https://www.npmjs.com/package/@subfuzion/queue)
+[![npm version](https://badge.fury.io/js/%40subfuzion%2Fqueue.svg)](https://badge.fury.io/js/%40subfuzion%2Fqueue)
 
 # @subfuzion/queue
 
