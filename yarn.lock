@@ -251,6 +251,10 @@ path-is-absolute@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
+rambda@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/rambda/-/rambda-1.0.3.tgz#146035492d1797aa49e1586530246f1c171c0074"
+
 redis-commands@^1.2.0:
   version "1.3.1"
   resolved "https://registry.yarnpkg.com/redis-commands/-/redis-commands-1.3.1.tgz#81d826f45fa9c8b2011f4cd7a0fe597d241d442b"
