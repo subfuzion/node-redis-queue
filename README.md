@@ -15,6 +15,13 @@ a simple queue, and also serves to illustrate how to use and test basic
 Redis operations using ES2017 async/await support now available natively
 in Node.js.
 
+This package is inspired by the existing [Docker Example Voting App](https://github.com/dockersamples/example-voting-app).
+The existing app is an excellent example of a real world polyglot application, demonstrating
+containerized processes created from a number of different programming languages. This
+package is intended to support a simpler version of the voting application that only
+uses Node.js and modern JavaScript that some developers may find a bit easier to follow while
+trying to understand how the application actually works.
+
 ## Testing
 
 Redis needs to be available before running tests. The tests default to

@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "Simple queue based on Redis for Docker Demo",
   "main": "index.js",
-  "author": "tony@subfuzion.com",
+  "author": "Tony Pujals <tony@subfuzion.com> (https://twitter.com/subfuzion)",
   "license": "MIT",
   "repository" : {
     "type" : "git",
